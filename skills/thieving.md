@@ -28,3 +28,6 @@ You can train thieving using the `+pickpocket` command. For example, you can `+p
 | Elf | 85 |
 | TzHaar-Hur | 90 |
 
+# Boosts
+
+Rogue's outfit can be obtained through Rogues' Den minigame - Every piece of outfit equipped in the skilling slot provides a 20% chance of double loot while pickpocketing, with the whole outfit adding up to 100% chance
